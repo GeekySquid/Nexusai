@@ -11,7 +11,7 @@ It supports both **students** and **institutions** through personalized analysis
 https://skillsync-placement-intelligence.vercel.app/
 
 🔗 **Demo Video**:  
-https://drive.google.com/file/d/1vIqa3cxUP8-8jSaMBpGWoHiBaLupuYeX/view?usp=drive_link
+https://youtu.be/zSKaU18LLPQ
 ---
 
 ## Features
