@@ -70,7 +70,7 @@ https://youtu.be/zSKaU18LLPQ
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/GeekySquid/Nexusai.git
-cd skillsync
+cd Nexusai
 ```
 
 ### 2. Install Node Module
