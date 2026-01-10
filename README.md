@@ -1,4 +1,8 @@
+
 # SkillSync – AI-Powered Career Coach
+
+<img width="1888" height="687" alt="image" src="https://github.com/user-attachments/assets/adf6f791-1b6e-48e1-88c3-0a64904fd852" />
+
 
 SkillSync is an AI-based EdTech platform that analyzes student resumes against job descriptions to identify skill gaps and provide placement readiness insights.  
 It supports both **students** and **institutions** through personalized analysis and centralized analytics.
@@ -11,6 +15,12 @@ https://skillsync-placement-intelligence.vercel.app/
 ## Features
 
 ### Student Features
+
+<img width="900" height="843" alt="image" src="https://github.com/user-attachments/assets/59c15d83-dfdd-4eef-94bf-8eaeea4c3772" />
+
+<img width="1567" height="722" alt="image" src="https://github.com/user-attachments/assets/234f09e2-69ef-4f5d-add5-5114701b922c" />
+
+
 - Upload resume (PDF or Image)
 - Automatic text extraction (OCR)
 - Paste any job description
