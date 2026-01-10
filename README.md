@@ -71,12 +71,17 @@ https://drive.google.com/file/d/1vIqa3cxUP8-8jSaMBpGWoHiBaLupuYeX/view?usp=drive
 ```bash
 git clone https://github.com/GeekySquid/Nexusai.git
 cd skillsync
+```
 
 ### 2. Install Node Module
+```bash
 npm install node
 npm run dev
+```
 
 ### 3. Vist the Website
+```bash
 Endpoints:
   Student Interface: http://localhost:3000
   Admin Dashboard: http://localhost:3000/admin.html
+```
